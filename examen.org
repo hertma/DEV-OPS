@@ -37,7 +37,6 @@
 4) Evita rupturas de amistades y relaciones amorosas (true life)
 
 * Qué se gana con la cultura Devops
-
 :PROPERTIES:
 :points: 1
 :END:
